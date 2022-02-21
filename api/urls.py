@@ -5,7 +5,7 @@ from  api import views
 
 urlpatterns = [
     path(
-        route = 'api', 
+        route = 'api', #/api?query=
         view = views.location_detail,
     )
    

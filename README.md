@@ -1,6 +1,14 @@
 # IpAPI 
 ![Logo](https://user-images.githubusercontent.com/82342478/154879274-7b6e7a24-6c41-47c5-aa0e-e571d3b31729.PNG)
 
+
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ <a target="_blank" href=https://www.linkedin.com/in/juliano-xavier-06a0b3161/><img alt=”Linkedin” src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+                         
+
 ### Overview
 Está API construida com django Rest Framework permite visualizar dados sobre a localização de certo IP fazendo uma requisição para uma API (http://ip-api.com)
 A API permite rquesições GET no seguinte endpoint : /api?query=($ip)

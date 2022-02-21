@@ -5,7 +5,7 @@ from  api import views
 
 urlpatterns = [
     path(
-        route = 'api', # /weather?city=$City&country=$Country&
+        route = 'api', 
         view = views.location_detail,
     )
    
